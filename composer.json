@@ -1,0 +1,24 @@
+{
+    "name": "mamadzirone/strutils",
+    "description": "Simple string utils for dealing easier with them",
+    "keywords": [
+        "string",
+        "utils"
+    ],
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php" : "^7.1.3|^8.0"
+    },
+    "authors": [
+        {
+            "name": "mohammad jamshidiasn",
+            "email": "jamshidian9898@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "mamadzirone\\Strutils\\": "src"
+        }
+    }
+}
