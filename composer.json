@@ -5,6 +5,7 @@
         "string",
         "utils"
     ],
+    "homepage": "https://github.com/jamshidian9898/strutils",
     "license": "MIT",
     "type": "library",
     "require": {
